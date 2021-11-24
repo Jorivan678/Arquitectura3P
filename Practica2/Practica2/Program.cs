@@ -2,8 +2,10 @@
 using Practica2.Patrón_Command;
 using Practica2.Patrón_Composite;
 using Practica2.Patrón_Façade;
+using Practica2.Patrón_Observer;
 using Practica2.Patrón_Prototype;
 using Practica2.Patrón_Singleton;
+using Practica2.Patrón_Template_Method;
 using System;
 
 namespace Practica2
@@ -30,12 +32,12 @@ namespace Practica2
                         break;
                     case 2:
                         Console.WriteLine("Patrón Prototype");
-                        Carro bwm_base = new BMW("BMW Serie 4 Coupe") { Precio = 300000 };
+                        Carro bmw_base = new BMW("BMW Serie 4 Coupe") { Precio = 300000 };
                         Carro ford_base = new Ford("Ford Lobo") { Precio = 100000 };
                         Carro carro1;
                         //BMW
-                        carro1 = bwm_base.Clone();
-                        carro1.Precio = bwm_base.Precio + Carro.SetPrecio();
+                        carro1 = bmw_base.Clone();
+                        carro1.Precio = bmw_base.Precio + Carro.SetPrecio();
                         Console.WriteLine($"El carro es: {carro1.Modelo}, y su precio es: ${carro1.Precio} MXN\n");
                         //Ford
                         carro1 = ford_base.Clone();
@@ -46,15 +48,15 @@ namespace Practica2
                         Console.WriteLine("Patrón Composite");
                         // Crear estructura de árbol
                         Composite root = new Composite("root");
-                        root.Add(new Leaf("Hoja A"));
-                        root.Add(new Leaf("Hoja B"));
-                        Composite comp = new Composite("Composite X");
-                        comp.Add(new Leaf("Hoja XA"));
-                        comp.Add(new Leaf("Hoja XB"));
+                        root.Add(new Leaf("Hoja rootA"));
+                        root.Add(new Leaf("Hoja rootB"));
+                        Composite comp = new Composite("Composite U");
+                        comp.Add(new Leaf("Hoja UA"));
+                        comp.Add(new Leaf("Hoja UB"));
                         root.Add(comp);
-                        root.Add(new Leaf("Hoja C"));
+                        root.Add(new Leaf("Hoja rootC"));
                         // Añadir hoja
-                        Leaf leaf = new Leaf("Hoja D");
+                        Leaf leaf = new Leaf("Hoja rootD");
                         root.Add(leaf);
                         // Árbol de visualización recursiva
                         root.Display(1);
@@ -109,6 +111,34 @@ namespace Practica2
 
                         invoker.SetCommand(command);
                         invoker.ExecuteCommand();
+                        break;
+                    case 7:
+                        Console.WriteLine("Patrón Observer");
+
+                        //Configura el patrón observador
+
+                        ConcreteSubject s = new ConcreteSubject();
+
+                        s.Attach(new ConcreteObserver(s, "A"));
+                        s.Attach(new ConcreteObserver(s, "S"));
+                        s.Attach(new ConcreteObserver(s, "D"));
+
+                        //Cambia el sujeto y notifica a los observadores
+
+                        s.SubjectState = "XYZ";
+                        s.Notify();
+                        break;
+                    case 8:
+                        Console.WriteLine("Patrón Template Method");
+
+                        //Llama a las clases
+
+                        ConcreteClassA A = new ConcreteClassA();
+                        ConcreteClassB B = new ConcreteClassB();
+
+                        A.TemplateMethod();
+                        B.TemplateMethod();
+
                         break;
                     default:
                         Console.WriteLine("No ha escogido una opcion válida.");

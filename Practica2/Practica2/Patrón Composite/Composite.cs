@@ -23,7 +23,7 @@ namespace Practica2.Patrón_Composite
         public override void Display(int depth)
         {
             Console.WriteLine(new String('-', depth) + name);
-            // Recursively display child nodes
+            // Muestra de forma recursiva los nodos secundarios
             foreach (Component component in children)
             {
                 component.Display(depth + 2);

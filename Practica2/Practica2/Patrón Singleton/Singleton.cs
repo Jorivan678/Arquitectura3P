@@ -29,7 +29,6 @@ namespace Practica2.Patrón_Singleton
         public void DoSomething()
         {
             Console.WriteLine("El código de la clase Singleton ha sido llamado");
-            Console.ReadLine();
         }
     }
 }

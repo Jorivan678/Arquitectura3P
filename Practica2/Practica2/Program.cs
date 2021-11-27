@@ -80,7 +80,7 @@ namespace Practica2
                         Cliente cliente1 = new Cliente(cliente);
                         bool elegible = hipoteca.EsElegible(cliente1, monto);
 
-                        Console.WriteLine("\n" + cliente1.Nombre + " ha sido " + (elegible ? "Aprovado/a" : "Rechazado/a"));
+                        Console.WriteLine("\n" + cliente1.Nombre + " ha sido " + (elegible ? "Aprobado/a" : "Rechazado/a"));
                         break;
                     case 5:
                         Console.WriteLine("Patrón Chain of responsability");

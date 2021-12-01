@@ -1,0 +1,15 @@
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\bin\Debug\net6.0\builder.exe
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\bin\Debug\net6.0\builder.deps.json
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\bin\Debug\net6.0\builder.runtimeconfig.json
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\bin\Debug\net6.0\builder.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\bin\Debug\net6.0\ref\builder.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\bin\Debug\net6.0\builder.pdb
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\builder.csproj.AssemblyReference.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\builder.AssemblyInfoInputs.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\builder.AssemblyInfo.cs
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\builder.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\ref\builder.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\builder.pdb
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\builder\builder\obj\Debug\net6.0\builder.genruntimeconfig.cache

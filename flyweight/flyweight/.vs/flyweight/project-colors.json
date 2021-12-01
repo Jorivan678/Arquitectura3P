@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5c766ef-a4ab-45d5-aa67-c97b7c0687eb": {
+      "ProjectGuid": "f5c766ef-a4ab-45d5-aa67-c97b7c0687eb",
+      "DisplayName": "flyweight",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

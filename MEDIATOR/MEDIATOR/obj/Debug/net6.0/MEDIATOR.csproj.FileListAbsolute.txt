@@ -1,0 +1,15 @@
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\bin\Debug\net6.0\MEDIATOR.exe
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\bin\Debug\net6.0\MEDIATOR.deps.json
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\bin\Debug\net6.0\MEDIATOR.runtimeconfig.json
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\bin\Debug\net6.0\MEDIATOR.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\bin\Debug\net6.0\ref\MEDIATOR.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\bin\Debug\net6.0\MEDIATOR.pdb
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\MEDIATOR.csproj.AssemblyReference.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\MEDIATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\MEDIATOR.AssemblyInfoInputs.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\MEDIATOR.AssemblyInfo.cs
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\MEDIATOR.csproj.CoreCompileInputs.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\MEDIATOR.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\ref\MEDIATOR.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\MEDIATOR.pdb
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEDIATOR\MEDIATOR\obj\Debug\net6.0\MEDIATOR.genruntimeconfig.cache

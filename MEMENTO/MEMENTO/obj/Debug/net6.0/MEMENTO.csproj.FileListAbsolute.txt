@@ -1,0 +1,15 @@
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\bin\Debug\net6.0\MEMENTO.exe
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\bin\Debug\net6.0\MEMENTO.deps.json
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\bin\Debug\net6.0\MEMENTO.runtimeconfig.json
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\bin\Debug\net6.0\MEMENTO.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\bin\Debug\net6.0\ref\MEMENTO.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\bin\Debug\net6.0\MEMENTO.pdb
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\MEMENTO.csproj.AssemblyReference.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\MEMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\MEMENTO.AssemblyInfoInputs.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\MEMENTO.AssemblyInfo.cs
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\MEMENTO.csproj.CoreCompileInputs.cache
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\MEMENTO.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\ref\MEMENTO.dll
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\MEMENTO.pdb
+C:\Users\emayo\OneDrive\Escritorio\7to cuatri\Arquitecturas de Software\3er parcial\MEMENTO\MEMENTO\obj\Debug\net6.0\MEMENTO.genruntimeconfig.cache

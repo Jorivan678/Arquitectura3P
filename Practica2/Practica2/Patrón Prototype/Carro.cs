@@ -7,12 +7,12 @@ namespace Practica2.Patrón_Prototype
     public abstract class Carro
     {
         public string Modelo { get; set; }
-        public double Precio { get; set; }
-        public static double SetPrecio()
+        public int Precio { get; set; }
+        public static int SetPrecio()
         {
-            double precio = 0;
+            int precio = 0;
             Random r = new Random();
-            double p = r.Next(200000, 1000000);
+            int p = r.Next(200000, 1000000);
             precio = p;
             return precio;
         }
